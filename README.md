@@ -156,9 +156,6 @@ The best performing agents were able to solve the environment in 200-250 episode
 
 The complete set of results and steps can be found in [this notebook](Navigation_final.ipynb).
 
-Also, [here](https://youtu.be/NZd1PoeBoro) is a video showing the agent's progress as it goes from randomly selecting actions to learning a policy that maximizes rewards.
-
-<a href="https://youtu.be/NZd1PoeBoro"><img src="assets/video-thumbnail.png" width="40%" align="top-left" alt="" title="Banana Agent Video" /></a>
 
 
 ##### &nbsp;
